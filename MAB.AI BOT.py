@@ -90,7 +90,7 @@ class SpeechRecognitionApp:
         ttk.Label(main_frame, text="Speech Recognition App", font=('Helvetica', 18, 'bold')).grid(row=5, column=0, columnspan=3, pady=10, sticky=tk.W)
 
         # Names in bold
-        ttk.Label(main_frame, text="By Amal Malaak Bushra Raneem", font=('Helvetica', 10, 'bold')).grid(row=6, column=0, columnspan=3, pady=5, sticky=tk.W)
+        ttk.Label(main_frame, text="By AMAL ALKRAIMEEN", font=('Helvetica', 10, 'bold')).grid(row=6, column=0, columnspan=3, pady=5, sticky=tk.W)
 
     def build_text_input_model(self):
         """
